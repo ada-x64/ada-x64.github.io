@@ -4,26 +4,18 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, I'm Ada! I'm a software developer living in Kansas and looking for work.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+You can download my resume [here.]({{site.baseurl}}/assets/Ada-Mandala-Resume.pdf)
 
-## Features
+# Projects
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## [Sundile](https://github.com/ada-x64/sundile_rs)
+[Check out the web build!](https://ada-x64.itch.io/sundile_wasm_build)
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Sundile is a modular and extensible game framework written in the Rust programming langauge. It builds both natively and to the web, and is in active development.
+
+## [Quell](https://github.com/ada-x64/quell)
+I'm making Sundile so I can make Quell.
+
+Quell is an procedurally generated open-world rougelike with a strong focus on narrative, drawing heavily on my studies in philosophy.
