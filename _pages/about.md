@@ -8,7 +8,7 @@ Hi, I'm Ada (they/them)! I'm a software developer in Lawrence, Kansas.
 
 My history with programming began at 12 years old, developing Mario fangames in GameMaker 8. Since then I've done a lot - made a game engine, studied philosophy and math, and become a parent, among other things.
 
-Currently I'm a big fan of Rust, which I'm using to develop my game engine [Sundile](#Projects). I've been a freelancer for three years now, in addition to having had several full-time tech jobs. I have experience with native software development in C++ and C#, and web development with Angular and React as well as back-end experience with PHP and .NET.
+Currently I'm a big fan of Rust, which I'm using to develop my game engine [Sundile](#Projects). I've been a freelancer for three years now, in addition to having had several full-time tech jobs. I have experience with native software development in C++ and C#, and web development with Angular and React as well as back-end experience with PHP and .NET. As a game developer I have primarily used Unity and GMS2, though my real expertise lies in engine-level development.
 
 I love open source communities! I'm working on contributing more to the communities I love, and I open-source all the software I write.
 
