@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Ada! I'm a software developer living in Kansas and looking for work.
+Hi, I'm Ada (they/them)! I'm a software developer in Lawrence, Kansas.
 
-I'm passionate about game and tools development and am a strong proponent of open-source software.
-In particular, I have experience writing game engines and web software by using and contributing to open-source tools.
+My history with programming began at 12 years old, developing Mario fangames in GameMaker 8. Since then I've done a lot - made a game engine, studied philosophy and math, and become a parent, among other things.
+
+Currently I'm a big fan of Rust, which I'm using to develop my game engine [Sundile](#Projects). I've been a freelancer for three years now, in addition to having had several full-time tech jobs. I have experience with native software development in C++ and C#, and web development with Angular and React as well as back-end experience with PHP and .NET.
+
+I love open source communities! I'm working on contributing more to the communities I love, and I open-source all the software I write.
+
+Feel free to reach me at any of the links at the bottom of the page. I'm always open to chat :)
 
 You can download my resume [here.]({{site.baseurl}}/assets/Ada-Mandala-Resume.pdf)
 
