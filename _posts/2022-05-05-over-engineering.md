@@ -1,4 +1,8 @@
-# Over-Engineering A Fairly Simple Coding Challenge
+---
+layout: post
+title: Over-Engineering A Fairly Simple Coding Challenge
+categories: [algorithms, rust, unsafe]
+---
 
 I'm looking for jobs right now and I came across a seemingly blase coding challenge. It goes like this:
 
